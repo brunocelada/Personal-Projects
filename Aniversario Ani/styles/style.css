@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Kadwa&family=Open+Sans&display=swap');
+
+:root {
+  /* My palette */
+  --primary-color: #A2D2FF;
+  --secondary-color: #BDE0FE;
+  --accent1-color: #FFAFCC;
+  --accent2-color: #FFC8DD;
+  --accent3-color: #CDB4DB;
+
+  --primary-color-strong: #315d87;
+  --accent3-color-strong: #754492;
+
+  /* My chosen font(s) */
+  --heading-font: Bitter, Kadwa, "Open Sans";
+  --paragraph-font: "Open Sans", Helvetica, sans-serif;
+}
+/*<body>*/
+body {
+    background-color: var(--primary-color);
+    margin: 0 auto;
+    text-align: center;
+    font-family: var(--paragraph-font);
+    color: var(--primary-color-strong);
+}
+    /*<header>*/
+    header {
+        background-color: var(--primary-color);
+        font-size: 1.3em;
+        
+    }
+        /*<nav>*/
+        header nav {
+            padding: 20px 0;
+        }
+            /*<a>Páginas x3</a>*/
+            header nav a {
+                text-decoration: none;
+                background-color: var(--primary-color);
+                color: var(--primary-color-strong);
+                padding: 0 50px;
+            }
+            header nav a:hover {
+                background-color: var(--secondary-color);
+                padding: 10px 50px;
+            }
+        /*</nav>*/
+        /*<img class="poster1">*/
+        .poster1 {
+            width: 100%;
+            
+        }
+    /*</header>*/
+    /*<body>*/
+        /*<h1 id="titulo"></h1>*/
+        #titulo {
+            font-family: var(--heading-font);
+            margin: 50px;
+        }
+        /*<div id="explicacion">*/
+        #explicacion {
+            background-color: var(--secondary-color);
+            padding: 10px 50px;
+            margin: 10px 100px;
+            text-align: justify;
+        }
+            /*<h2></h2>*/
+            #explicacion h2 {
+                text-align: center;
+            }
+            /*<p>x2</p>*/
+        /*</div>*/
+        /*<img id="hermosos-img">*/
+        #hermosos-img {
+            border: 5px solid var(--accent1-color);
+            border-radius: 5%;
+            width: 50%;
+            margin: 0 auto;
+        }
+        /*div id="hermosos"*/
+        #hermosos {
+            margin: 0 400px;
+            margin-bottom: 20px;
+            background-color: var(--accent2-color);
+            border-radius: 10px;
+            border: 5px solid var(--accent1-color);
+        }
+        /*<p class="hermosos-p">x2</p>*/
+        .hermosos-p {
+            margin: 0 auto;
+        }
+        /*<section class="catalogo"> x3*/
+        
+            /*<img class="catalogo-img">*/
+            .catalogo-img {
+                width: 20%;
+            }
+            /*<p class="catalogo-p"></p>*/       
+        /*</section>*/
+    /*</body>*/
+    /*<footer>*/
+    footer {
+        background-color: var(--accent1-color);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 1.5em;
+    }
+        /*<nav>*/
+            /*<a>SIGUIENTE</a>*/
+            footer nav a {
+                text-decoration: none;
+                background-color: var(--accent1-color);
+                color: var(--primary-color-strong);
+            }
+            footer nav a:hover {
+                background-color: var(--accent2-color);
+                color: var(--accent3-color-strong);
+            }
+        /*</nav>*/
+    /*</footer>*/
+/*</body>*/
