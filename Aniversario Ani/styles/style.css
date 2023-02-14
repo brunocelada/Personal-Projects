@@ -23,6 +23,7 @@ body {
     text-align: center;
     font-family: var(--paragraph-font);
     color: var(--primary-color-strong);
+    line-height: 1.6;
 }
     /*<header>*/
     header {
