@@ -4,7 +4,7 @@
         "cursos": [
             {
                 "status": true,
-                "img": "https://github.com/brunocelada/Personal-Projects/blob/master/Instituto/seirosario-page/Cursos%201P%202024/1.png?raw=true",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/1.png",
                 "titulo": "PREPARACIÓN MISIONAL",
                 "horario": "Miércoles 19:00 hs",
                 "instructor": "Instructor/a: 4",
@@ -14,7 +14,7 @@
             },
             {
                 "status": true,
-                "img": "https://github.com/brunocelada/Personal-Projects/blob/master/Instituto/seirosario-page/Cursos%201P%202024/1.png?raw=true",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/2.png",
                 "titulo": "PRINCIPIOS DE LIDERAZGO",
                 "horario": "Miércoles 20:30 hs",
                 "instructor": "Instructor/a: Cesar Torricella",
