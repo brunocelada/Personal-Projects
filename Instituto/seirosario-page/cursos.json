@@ -176,7 +176,7 @@
         "cursos": [
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/p1.webp",
                 "titulo": "LA FAMILIA ETERNA",
                 "horario": "Jueves 20:00 hs",
                 "instructor": "Instructor/a: Fiorella Fusco",
@@ -221,7 +221,7 @@
         "cursos": [
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/vt1.webp",
                 "titulo": "LA PERLA DE GRAN PRECIO",
                 "horario": "Horario a confirmar",
                 "instructor": "Instructor/a: A confirmar",
