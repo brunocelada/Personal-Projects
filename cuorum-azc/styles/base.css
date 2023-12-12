@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&family=Roboto&display=swap");
+:root {
+  /* Colors */
+  --main-background: #2f4858;
+  --sec-color: #33658a;
+  --third-color: #86bbd8;
+  --forth-color: #f6ae2d;
+  --contrast: #f26419;
+  --dark-contrast: #1d2c36;
+
+  /* Fonts */
+  --headings: "Raleway", sans-serif;
+  --paragraph: "Roboto", sans-serif;
+
+  /* Animations */
+  --bg-transition: color 0.1s, background-color 0.2s ease-in-out;
+  --transtition: all 300ms ease-out;
+}
+
+body {
+  color: white;
+  background-color: var(--main-background);
+  margin: 0 auto;
+  font-family: var(--paragraph);
+  line-height: 2rem;
+  letter-spacing: 0.1rem;
+  text-align: center;
+}
+hr {
+  border: solid 1px white;
+  margin: 1%;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: var(--headings);
+}
+
+main h1 {
+  margin: 1% 5%;
+  margin-top: 3rem;
+}
+
+#menu {
+  display: block;
+  position: absolute;
+  top: 0;
+  right: 1rem;
+  background-color: rgb(0, 0, 0, 0);
+  border: 0;
+  font-size: 2rem;
+  box-shadow: none;
+}
+#menu::before {
+  content: "≡";
+  color: var(--contrast);
+}
+#menu.show::before {
+  content: "✖";
+}
+header {
+  background-color: var(--dark-contrast);
+}
+header a {
+  text-decoration: none;
+  color: white;
+  font-family: var(--headings);
+  font-weight: bold;
+  margin: 0 0.5em;
+  border-radius: 5px;
+}
+/* Navigation */
+.navigation {
+  font-family: var(--heading-font);
+  background-color: var(--contrast);
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  width: 85%;
+}
+.navigation a {
+  display: none;
+  color: var(--main-background);
+  padding: 0.5rem 2rem;
+  font-weight: bold;
+  text-decoration: none;
+  transition: var(--transtition);
+}
+.navigation a:hover {
+  background-color: var(--sec-color);
+}
+.show a {
+  display: block;
+}
+
+.foto {
+  width: 100%;
+}
+
+/* Footer */
+footer {
+  background-color: var(--dark-contrast);
+  margin: 0 auto;
+  margin-top: 1rem;
+  padding: 0.3rem;
+}
+footer a {
+  color: white;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+.social {
+  align-self: center;
+}
+.social a:hover {
+  text-decoration: none;
+}
+.social img {
+  width: 30px;
+  margin: 0.3rem;
+}
+.social img:hover {
+  opacity: 0.7;
+}
