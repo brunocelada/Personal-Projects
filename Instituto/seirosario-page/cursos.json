@@ -230,6 +230,16 @@
                 "linkMAT": "https://www.churchofjesuschrist.org/bc/content/shared/content/spanish/pdf/language-materials/35852_spa.pdf"
             },
             {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/vt2.webp",
+                "titulo": "FUNDAMENTOS DE LA RESTAURACIÓN",
+                "horario": "Viernes 19:00 hs - MURPHY",
+                "instructor": "Instructor/a: Mario Escudero",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019?lang=spa"
+            },
+            {
                 "status": false,
                 "img": "https://github.com/brunocelada/WDD-130/blob/master/public-resources/seirosario-page/Cursos%203P%202023/vt1.png?raw=true",
                 "titulo": "ENSEÑANZAS DEL PRESIDENTE RUSELL M. NELSON",
