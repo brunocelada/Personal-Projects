@@ -25,6 +25,7 @@ body {
   line-height: 2rem;
   letter-spacing: 0.1rem;
   text-align: center;
+  max-width: 650px;
 }
 hr {
   border: solid 1px white;
@@ -39,65 +40,33 @@ h5 {
 }
 
 main h1 {
-  margin: 1% 5%;
-  margin-top: 3rem;
+  margin: 20px 5%;
 }
 
-#menu {
-  display: block;
-  position: absolute;
-  top: 0;
-  right: 1rem;
-  background-color: rgb(0, 0, 0, 0);
-  border: 0;
-  font-size: 2rem;
-  box-shadow: none;
-}
-#menu::before {
-  content: "≡";
-  color: var(--contrast);
-}
-#menu.show::before {
-  content: "✖";
-}
 header {
   background-color: var(--dark-contrast);
-}
-header a {
-  text-decoration: none;
-  color: white;
-  font-family: var(--headings);
-  font-weight: bold;
-  margin: 0 0.5em;
-  border-radius: 5px;
 }
 /* Navigation */
 .navigation {
   font-family: var(--heading-font);
-  background-color: var(--contrast);
-  display: flex;
-  flex-direction: column;
-  padding: 0;
-  width: 85%;
+  justify-content: space-between;
+  margin: 0 1rem;
 }
 .navigation a {
-  display: none;
-  color: var(--main-background);
-  padding: 0.5rem 2rem;
-  font-weight: bold;
   text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  margin: 2rem;
+  font-family: var(--headings);
+  border-radius: 5px;
   transition: var(--transtition);
 }
 .navigation a:hover {
   background-color: var(--sec-color);
 }
-.show a {
-  display: block;
-}
 
-.foto {
-  width: 100%;
-}
+
+
 
 /* Footer */
 footer {
