@@ -4,7 +4,48 @@
         "cursos": [
             {
                 "status": true,
-                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/1.webp",
+                "img": "",
+                "titulo": "ENSEÑANZAS Y DOCTRINA DEL LIBRO DE MORMÓN",
+                "horario": "Martes 06:00 AM",
+                "instructor": "Instructor/a: Sandra Ibañez",
+                "modalidad": "Modalidad: Virtual",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/teachings-and-doctrine-of-the-book-of-mormon-class-prep-material-2021?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "",
+                "titulo": "LA HISTORIA DEL CRISTIANISMO",
+                "horario": "Martes 17:00 hs",
+                "instructor": "Instructor/a: Cesar Torricella",
+                "modalidad": "Modalidad: Mixta",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/the-restored-gospel-and-christian-history-student-readings?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "",
+                "titulo": "ENSEÑANZAS Y DOCTRINA DEL LIBRO DE MORMÓN",
+                "horario": "Martes 20:00 AM",
+                "instructor": "Instructor/a: Matrimonio Acosta",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/teachings-and-doctrine-of-the-book-of-mormon-class-prep-material-2021?lang=spa"
+            },
+
+            {
+                "status": true,
+                "img": "",
+                "titulo": "PARÁBOLAS DE JESUCRISTO",
+                "horario": "Miércoles 18:00 hs",
+                "instructor": "Instructor/a: Carolina Torricella",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/the-parables-of-jesus-student-readings?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "",
                 "titulo": "PREPARACIÓN MISIONAL",
                 "horario": "Miércoles 19:00 hs",
                 "instructor": "Instructor/a: 4",
@@ -14,6 +55,53 @@
             },
             {
                 "status": true,
+                "img": "",
+                "titulo": "DOCTRINA DEL EVANGELIO",
+                "horario": "Miércoles 20:30 hs",
+                "instructor": "Instructor/a: iSMAEL Arancibia",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/doctrines-of-the-gospel-part-1-student-readings?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "",
+                "titulo": "FUNDAMENTOS DE LA RESTAURACIÓN",
+                "horario": "Miércoles 20:30 hs",
+                "instructor": "Instructor/a: Cesar Torricella",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019?lang=spa"
+            },
+
+            {
+                "status": true,
+                "img": "",
+                "titulo": "JESUCRISTO Y EL EVANGELIO SEMPITERNO",
+                "horario": "Jueves 18:00 hs",
+                "instructor": "Instructor/a: Betiana Abonizio",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "",
+                "titulo": "ENSEÑANZAS DEL PRESIDENTE RUSELL M. NELSON",
+                "horario": "Jueves 20:00 hs",
+                "instructor": "Instructor/a: Matrimonio Gamboa",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-selected-course-outlines/course-390r-nelson?lang=spa"
+            },
+
+
+
+
+
+            
+            {
+                "status": false,
                 "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/2.webp",
                 "titulo": "PRINCIPIOS DE LIDERAZGO",
                 "horario": "Miércoles 20:30 hs",
@@ -22,18 +110,7 @@
                 "linkWSP": "https://chat.whatsapp.com/D7S1cupEgxz0NoB0UAaX2I",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/principles-of-leadership-student-readings?lang=spa"
             },
-
             
-            {
-                "status": false,
-                "img": "https://github.com/brunocelada/WDD-130/blob/master/public-resources/seirosario-page/Cursos%203P%202023/1.png?raw=true",
-                "titulo": "JESUCRISTO Y EL EVANGELIO SEMPITERNO",
-                "horario": "Martes 08:00 hs",
-                "instructor": "Instructor/a: Sandra Ibañez",
-                "modalidad": "Modalidad: Virtual",
-                "linkWSP": "https://chat.whatsapp.com/EsAW6Ey5YF6LoUsxGkcFlP",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/jesus-christ-and-his-everlasting-gospel-class-prep-material-2023?lang=spa"
-            },
             {
                 "status": false,
                 "img": "https://github.com/brunocelada/WDD-130/blob/master/public-resources/seirosario-page/Cursos%203P%202023/2.png?raw=true",
@@ -151,16 +228,6 @@
             },
             {
                 "status": false,
-                "img": "https://github.com/brunocelada/WDD-130/blob/master/public-resources/seirosario-page/Cursos%203P%202023/sn2.png?raw=true",
-                "titulo": "FUNDAMENTOS DE LA RESTAURACIÓN",
-                "horario": "Sábados 16:30 hs",
-                "instructor": "Instructor/a: Matrimonio Lubrano",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/IJjxizrpWpBG0Hk4E8mafV",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019?lang=spa"
-            },
-            {
-                "status": false,
                 "img": "https://github.com/brunocelada/WDD-130/blob/master/public-resources/seirosario-page/Cursos%203P%202023/sn3.png?raw=true",
                 "titulo": "PREPARACIÓN MISIONAL",
                 "horario": "Sábados 18:00 hs",
@@ -175,7 +242,7 @@
         "nombre": "INSTITUTO PERGAMINO",
         "cursos": [
             {
-                "status": true,
+                "status": false,
                 "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/p1.webp",
                 "titulo": "LA FAMILIA ETERNA",
                 "horario": "Jueves 20:00 hs",
@@ -220,7 +287,7 @@
         "nombre": "INSTITUTO VENADO TUERTO",
         "cursos": [
             {
-                "status": true,
+                "status": false,
                 "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/vt1.webp",
                 "titulo": "LA PERLA DE GRAN PRECIO",
                 "horario": "Horario a confirmar",
@@ -230,7 +297,7 @@
                 "linkMAT": "https://www.churchofjesuschrist.org/bc/content/shared/content/spanish/pdf/language-materials/35852_spa.pdf"
             },
             {
-                "status": true,
+                "status": false,
                 "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/vt2.webp",
                 "titulo": "FUNDAMENTOS DE LA RESTAURACIÓN",
                 "horario": "Viernes 19:00 hs - MURPHY",
@@ -238,16 +305,6 @@
                 "modalidad": "Modalidad: Presencial",
                 "linkWSP": "",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/foundations-of-the-restoration-class-preparation-material-2019?lang=spa"
-            },
-            {
-                "status": false,
-                "img": "https://github.com/brunocelada/WDD-130/blob/master/public-resources/seirosario-page/Cursos%203P%202023/vt1.png?raw=true",
-                "titulo": "ENSEÑANZAS DEL PRESIDENTE RUSELL M. NELSON",
-                "horario": "Sábados 19:00 hs",
-                "instructor": "Instructor/a: Rocío Sanchez",
-                "modalidad": "Modalidad: Presencial",
-                "linkWSP": "https://chat.whatsapp.com/DSad5AhejkFHSvypx3isTg",
-                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-selected-course-outlines/course-390r-nelson?lang=spa"
             }
         ]
     }
