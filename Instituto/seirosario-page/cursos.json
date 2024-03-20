@@ -4,7 +4,7 @@
         "cursos": [
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/1.webp",
                 "titulo": "ENSEÑANZAS Y DOCTRINA DEL LIBRO DE MORMÓN",
                 "horario": "Martes 06:00 AM",
                 "instructor": "Instructor/a: Sandra Ibañez",
@@ -14,17 +14,17 @@
             },
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/2.webp",
                 "titulo": "LA HISTORIA DEL CRISTIANISMO",
                 "horario": "Martes 17:00 hs",
                 "instructor": "Instructor/a: Cesar Torricella",
-                "modalidad": "Modalidad: Mixta",
+                "modalidad": "Modalidad: Híbrido",
                 "linkWSP": "",
                 "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-secondary-electives-student-readings-and-selected-course-outlines/the-restored-gospel-and-christian-history-student-readings?lang=spa"
             },
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/3.webp",
                 "titulo": "ENSEÑANZAS Y DOCTRINA DEL LIBRO DE MORMÓN",
                 "horario": "Martes 20:00 AM",
                 "instructor": "Instructor/a: Matrimonio Acosta",
@@ -35,7 +35,7 @@
 
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/4.webp",
                 "titulo": "PARÁBOLAS DE JESUCRISTO",
                 "horario": "Miércoles 18:00 hs",
                 "instructor": "Instructor/a: Carolina Torricella",
@@ -45,7 +45,7 @@
             },
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/5.webp",
                 "titulo": "PREPARACIÓN MISIONAL",
                 "horario": "Miércoles 19:00 hs",
                 "instructor": "Instructor/a: 4",
@@ -55,7 +55,7 @@
             },
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/6.webp",
                 "titulo": "DOCTRINA DEL EVANGELIO",
                 "horario": "Miércoles 20:00 hs",
                 "instructor": "Instructor/a: Ismael Arancibia",
@@ -65,7 +65,7 @@
             },
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/7.webp",
                 "titulo": "FUNDAMENTOS DE LA RESTAURACIÓN",
                 "horario": "Miércoles 20:30 hs",
                 "instructor": "Instructor/a: Cesar Torricella",
@@ -76,7 +76,7 @@
 
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/8.webp",
                 "titulo": "JESUCRISTO Y EL EVANGELIO SEMPITERNO",
                 "horario": "Jueves 18:00 hs",
                 "instructor": "Instructor/a: Betiana Abonizio",
@@ -86,7 +86,7 @@
             },
             {
                 "status": true,
-                "img": "",
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/9.webp",
                 "titulo": "ENSEÑANZAS DEL PRESIDENTE RUSELL M. NELSON",
                 "horario": "Jueves 20:00 hs",
                 "instructor": "Instructor/a: Matrimonio Gamboa",
