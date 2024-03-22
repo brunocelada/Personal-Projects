@@ -242,6 +242,31 @@
         "nombre": "INSTITUTO PERGAMINO",
         "cursos": [
             {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/p1.webp",
+                "titulo": "ENSEÑANZAS DEL PRESIDENTE RUSSELL M. NELSON",
+                "horario": "Horario a confirmar",
+                "instructor": "Instructor/a: Julia Aguilar",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/institute-selected-course-outlines/course-390r-nelson?lang=spa"
+            },
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/p2.webp",
+                "titulo": "LA PERLA DE GRAN PRECIO",
+                "horario": "Horario a confirmar",
+                "instructor": "Instructor/a: A confirmar",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/bc/content/shared/content/spanish/pdf/language-materials/35852_spa.pdf"
+            },
+
+            
+            
+            
+            
+            {
                 "status": false,
                 "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/p1.webp",
                 "titulo": "LA FAMILIA ETERNA",
@@ -286,6 +311,21 @@
     {
         "nombre": "INSTITUTO VENADO TUERTO",
         "cursos": [
+            {
+                "status": true,
+                "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%202P%202024/vt1.webp",
+                "titulo": "ENSEÑANZAS Y DOCTRINA DEL LIBRO DE MORMÓN",
+                "horario": "Viernes 19:00 hs - MURPHY",
+                "instructor": "Instructor/a: Mario Escudero",
+                "modalidad": "Modalidad: Presencial",
+                "linkWSP": "",
+                "linkMAT": "https://www.churchofjesuschrist.org/study/manual/teachings-and-doctrine-of-the-book-of-mormon-class-prep-material-2021?lang=spa"
+            },
+            
+            
+            
+            
+            
             {
                 "status": false,
                 "img": "https://raw.githubusercontent.com/brunocelada/Personal-Projects/main/Instituto/seirosario-page/Cursos%201P%202024/vt1.webp",
